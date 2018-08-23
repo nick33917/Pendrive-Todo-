@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1518900276 source:c:\users\nick3\desktop\finaldiciembre(febrero)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1518900276 c:\users\nick3\desktop\finaldiciembre(febrero)\arraylist.h
+
+1519124766 source:c:\users\nick3\desktop\finaldiciembre(febrero)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+
+1519124766 c:\users\nick3\desktop\finaldiciembre(febrero)\funciones.h
+
+1519126139 source:c:\users\nick3\desktop\finaldiciembre(febrero)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+
+1518900278 source:e:\final febrero 2018\finaldiciembre(febrero)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1518900278 e:\final febrero 2018\finaldiciembre(febrero)\arraylist.h
+
+1519126140 source:e:\final febrero 2018\finaldiciembre(febrero)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+
+1519124768 e:\final febrero 2018\finaldiciembre(febrero)\funciones.h
+
+1519124768 source:e:\final febrero 2018\finaldiciembre(febrero)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+

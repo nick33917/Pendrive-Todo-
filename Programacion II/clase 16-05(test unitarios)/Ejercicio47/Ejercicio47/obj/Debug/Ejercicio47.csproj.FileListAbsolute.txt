@@ -1,0 +1,9 @@
+D:\VisualStudio\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.dll
+D:\VisualStudio\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.pdb
+D:\VisualStudio\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.dll
+D:\VisualStudio\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.pdb
+E:\Programacion II\clase 16-05\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.dll
+E:\Programacion II\clase 16-05\Ejercicio47\Ejercicio47\bin\Debug\Ejercicio47.pdb
+E:\Programacion II\clase 16-05\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.csprojResolveAssemblyReference.cache
+E:\Programacion II\clase 16-05\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.dll
+E:\Programacion II\clase 16-05\Ejercicio47\Ejercicio47\obj\Debug\Ejercicio47.pdb

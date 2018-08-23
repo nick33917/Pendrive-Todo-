@@ -1,0 +1,4 @@
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\Interfaces\obj\Debug\Interfaces.pdb

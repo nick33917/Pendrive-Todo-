@@ -1,0 +1,16 @@
+D:\VisualStudio\Figueiras.Juan.2A\Probar\obj\Debug\Probar.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Figueiras.Juan.2A\Probar\bin\Debug\Probar.exe.config
+D:\VisualStudio\Figueiras.Juan.2A\Probar\bin\Debug\Probar.exe
+D:\VisualStudio\Figueiras.Juan.2A\Probar\bin\Debug\Probar.pdb
+D:\VisualStudio\Figueiras.Juan.2A\Probar\bin\Debug\Entidades.dll
+D:\VisualStudio\Figueiras.Juan.2A\Probar\bin\Debug\Entidades.pdb
+D:\VisualStudio\Figueiras.Juan.2A\Probar\obj\Debug\Probar.exe
+D:\VisualStudio\Figueiras.Juan.2A\Probar\obj\Debug\Probar.pdb
+E:\Figueiras.Juan.2A\Probar\bin\Debug\Probar.exe.config
+E:\Figueiras.Juan.2A\Probar\obj\Debug\Probar.exe
+E:\Figueiras.Juan.2A\Probar\obj\Debug\Probar.pdb
+E:\Figueiras.Juan.2A\Probar\bin\Debug\Probar.exe
+E:\Figueiras.Juan.2A\Probar\bin\Debug\Probar.pdb
+E:\Figueiras.Juan.2A\Probar\bin\Debug\Entidades.dll
+E:\Figueiras.Juan.2A\Probar\bin\Debug\Entidades.pdb
+E:\Figueiras.Juan.2A\Probar\obj\Debug\Probar.csprojResolveAssemblyReference.cache

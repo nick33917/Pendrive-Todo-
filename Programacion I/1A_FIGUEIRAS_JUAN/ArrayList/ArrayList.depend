@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1446667744 source:f:\final final - array\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510747762 source:f:\array list - generico\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510721356 f:\array list - generico\arraylist\arraylist.h
+
+1511323940 source:f:\array list - generico\arraylist\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+
+1511328262 f:\array list - generico\arraylist\estructura.h
+
+1511354254 source:f:\array list - generico\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"Parser.h"
+
+1511322638 f:\array list - generico\arraylist\parser.h
+
+1511354160 source:f:\array list - generico\arraylist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Estructura.h"
+
+1510747762 source:c:\users\alumno\desktop\1a_figueiras_juan\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510721356 c:\users\alumno\desktop\1a_figueiras_juan\arraylist\arraylist.h
+
+1511362553 source:c:\users\alumno\desktop\1a_figueiras_juan\arraylist\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+
+1511358814 c:\users\alumno\desktop\1a_figueiras_juan\arraylist\estructura.h
+
+1511354326 source:c:\users\alumno\desktop\1a_figueiras_juan\arraylist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Estructura.h"
+
+1511322638 c:\users\alumno\desktop\1a_figueiras_juan\arraylist\parser.h
+
+1510747762 source:c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510721356 c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\arraylist.h
+
+1511355335 source:c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"Parser.h"
+
+1511358814 c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\estructura.h
+
+1511322638 c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\parser.h
+
+1511357508 source:c:\users\alumno\desktop\1a_figueiras_juan - copia\arraylist\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+
+1511361808 source:c:\users\alumno\desktop\1a_figueiras_juan\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"Parser.h"
+

@@ -1,0 +1,6 @@
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\Ejercicio4\obj\Debug\Ejercicio4.pdb

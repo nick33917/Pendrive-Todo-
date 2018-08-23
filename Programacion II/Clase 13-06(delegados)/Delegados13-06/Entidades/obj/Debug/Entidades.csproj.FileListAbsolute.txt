@@ -1,0 +1,9 @@
+D:\VisualStudio\Delegados13-06\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Delegados13-06\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Delegados13-06\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Delegados13-06\Entidades\obj\Debug\Entidades.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Entidades\bin\Debug\Entidades.dll
+E:\Programacion II\Clase 13-06\Delegados13-06\Entidades\bin\Debug\Entidades.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Programacion II\Clase 13-06\Delegados13-06\Entidades\obj\Debug\Entidades.dll
+E:\Programacion II\Clase 13-06\Delegados13-06\Entidades\obj\Debug\Entidades.pdb

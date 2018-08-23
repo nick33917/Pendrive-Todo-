@@ -1,0 +1,8 @@
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\bin\Debug\TestEntidadesClase22.exe.config
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\bin\Debug\TestEntidadesClase22.exe
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\bin\Debug\TestEntidadesClase22.pdb
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\bin\Debug\EntidadesClase22.dll
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\bin\Debug\EntidadesClase22.pdb
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\obj\Debug\TestEntidadesClase22.csprojResolveAssemblyReference.cache
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\obj\Debug\TestEntidadesClase22.exe
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\TestEntidadesClase22\obj\Debug\TestEntidadesClase22.pdb

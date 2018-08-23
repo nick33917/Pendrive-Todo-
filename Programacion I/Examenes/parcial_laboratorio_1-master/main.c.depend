@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1494427731 source:d:\parcialquetto\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"lib.c"
+
+1494428532 d:\parcialquetto\main.c\lib.h
+
+1494429040 d:\parcialquetto\main.c\lib.c
+
+1494987909 source:c:\users\agustín\desktop\recuperatorio_parcial-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"lib.c"
+
+1494988754 c:\users\agustín\desktop\recuperatorio_parcial-master\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1494990005 c:\users\agustín\desktop\recuperatorio_parcial-master\lib.c
+	"lib.h"
+
+1496838546 source:d:\quetto\parcial_1_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"lib.c"
+
+1494990084 d:\quetto\parcial_1_laboratorio_1-master\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1494990084 d:\quetto\parcial_1_laboratorio_1-master\lib.c
+	"lib.h"
+
+1497862578 source:c:\users\admin\desktop\examenes\parcial_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"lib.c"
+
+1497862578 c:\users\admin\desktop\examenes\parcial_laboratorio_1-master\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1497862578 c:\users\admin\desktop\examenes\parcial_laboratorio_1-master\lib.c
+	"lib.h"
+

@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe.config
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\bin\Debug\PruebaEjercicio.pdb
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\bin\Debug\Lavadero.dll
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\bin\Debug\Lavadero.pdb
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\obj\Debug\PruebaEjercicio.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\obj\Debug\PruebaEjercicio.exe
+C:\Users\alumno\Desktop\Lavadero\PruebaEjercicio\obj\Debug\PruebaEjercicio.pdb

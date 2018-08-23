@@ -1,0 +1,8 @@
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\obj\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\bin\Debug\Entidades.dll.CodeAnalysisLog.xml
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\bin\Debug\Entidades.dll.lastcodeanalysissucceeded
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

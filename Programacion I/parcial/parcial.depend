@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1506779015 source:c:\users\alumno\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506778949 c:\users\alumno\desktop\parcial\funciones.h
+
+1506779203 source:c:\users\alumno\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506815925 source:c:\users\admin\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506816145 c:\users\admin\desktop\parcial\funciones.h
+
+1506784872 source:c:\users\admin\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506826184 source:f:\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506825780 f:\parcial\funciones.h
+
+1506826258 source:f:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506909314 source:e:\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506825780 e:\parcial\funciones.h
+
+1506826258 source:e:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

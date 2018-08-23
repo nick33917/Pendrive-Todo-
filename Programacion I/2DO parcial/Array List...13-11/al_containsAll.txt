@@ -1,0 +1,24 @@
+int al_containsAll(ArrayList* pList,ArrayList* pList2)
+{
+    int returnAux = -1, i, r;
+
+    if(pList != NULL && pList2 != NULL )
+    {
+        returnAux = 1;
+        if(pList->len(pList) != pList2->len(pList2))
+        {
+           returnAux = 0;
+        }
+
+        for(i = 0; i < pList2->len(pList2); i++)
+        {
+            r = pList->contains(pList, *(pList2->pElements + i));
+            if(r != 1)
+            {
+                returnAux = 0;
+                break;
+            }
+        }
+    }
+    return returnAux;
+}

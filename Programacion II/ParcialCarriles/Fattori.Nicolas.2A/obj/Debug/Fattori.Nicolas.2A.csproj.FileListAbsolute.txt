@@ -1,0 +1,11 @@
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\bin\Debug\Fattori.Nicolas.2A.exe.config
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\bin\Debug\Fattori.Nicolas.2A.exe
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\bin\Debug\Fattori.Nicolas.2A.pdb
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas.2A.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas._2A.Form1.resources
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas._2A.Properties.Resources.resources
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas.2A.csproj.GenerateResource.Cache
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas.2A.exe
+C:\Users\nick3\Desktop\ParcialCarriles\Fattori.Nicolas.2A\obj\Debug\Fattori.Nicolas.2A.pdb

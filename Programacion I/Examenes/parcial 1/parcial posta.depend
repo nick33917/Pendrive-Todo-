@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1494789812 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\parcial posta\lib.c
+	"lib.h"
+
+1494789036 c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\parcial posta\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1494789812 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\parcial posta\main.c
+	"lib.h"
+
+1494791570 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial posta\lib.c
+	"lib.h"
+
+1494791502 c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial posta\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1494791502 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial posta\main.c
+	"lib.h"
+
+1494868611 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial 1\lib.c
+	"lib.h"
+
+1494791502 c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial 1\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1494791502 source:c:\users\tomas y lucas\desktop\juegos y descargas\curso lucas it\facultad\laboratorio\clases\para parciales o recup\parcial 1\main.c
+	"lib.h"
+
+1494868611 source:e:\facultad\laboratorio y programacion\para parciales o recup\parcial 1\lib.c
+	"lib.h"
+
+1494791502 e:\facultad\laboratorio y programacion\para parciales o recup\parcial 1\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1494791502 source:e:\facultad\laboratorio y programacion\para parciales o recup\parcial 1\main.c
+	"lib.h"
+
+1496725681 source:c:\users\lucas\desktop\lucas\cursos lucas\facultad\laboratorio\clases\para parciales o recup\parcial 1\lib.c
+	"lib.h"
+
+1494791502 c:\users\lucas\desktop\lucas\cursos lucas\facultad\laboratorio\clases\para parciales o recup\parcial 1\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1494791502 source:c:\users\lucas\desktop\lucas\cursos lucas\facultad\laboratorio\clases\para parciales o recup\parcial 1\main.c
+	"lib.h"
+
+1499861148 source:d:\examenes\parcial 1\lib.c
+	"lib.h"
+
+1499861148 d:\examenes\parcial 1\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1499861148 source:d:\examenes\parcial 1\main.c
+	"lib.h"
+

@@ -1,0 +1,11 @@
+C:\Users\nick3\Desktop\SP\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\nick3\Desktop\SP\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\nick3\Desktop\SP\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\nick3\Desktop\SP\Entidades.SP\obj\Debug\Entidades.SP.pdb
+C:\Users\nick3\Desktop\SP\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\bin\Debug\Entidades.SP.dll.config
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\bin\Debug\Entidades.SP.dll
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\bin\Debug\Entidades.SP.pdb
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\obj\Debug\Entidades.SP.csprojResolveAssemblyReference.cache
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\obj\Debug\Entidades.SP.dll
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\Entidades.SP\obj\Debug\Entidades.SP.pdb

@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\bin\Debug\Prueba.exe
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\bin\Debug\Prueba.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\bin\Debug\Entidades-Clase7.dll
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\bin\Debug\Entidades-Clase7.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\obj\Debug\Prueba.exe
+C:\Users\alumno\Desktop\Entidades-Clase7\Prueba\obj\Debug\Prueba.pdb

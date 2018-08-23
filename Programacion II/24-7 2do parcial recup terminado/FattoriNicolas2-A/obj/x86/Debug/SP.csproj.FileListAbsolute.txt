@@ -1,0 +1,47 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.pdb
+C:\Users\nick3\Desktop\SP\bin\Debug\SP.exe.config
+C:\Users\nick3\Desktop\SP\bin\Debug\SP.exe
+C:\Users\nick3\Desktop\SP\bin\Debug\SP.pdb
+C:\Users\nick3\Desktop\SP\bin\Debug\Entidades.SP.dll
+C:\Users\nick3\Desktop\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.exe
+C:\Users\nick3\Desktop\SP\obj\x86\Debug\SP.pdb
+E:\23-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\SP.exe.config
+E:\23-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.exe
+E:\23-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.pdb
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\SP.exe.config
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.exe
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.pdb
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\SP.exe
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\SP.pdb
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\Entidades.SP.dll
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\bin\Debug\Entidades.SP.pdb
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.frmRSP.resources
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.Properties.Resources.resources
+E:\24-7 2do parcial recup terminado\FattoriNicolas2-A\obj\x86\Debug\SP.csproj.GenerateResource.Cache

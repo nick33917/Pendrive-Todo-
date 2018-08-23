@@ -1,0 +1,12 @@
+D:\VisualStudio\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.dll.config
+D:\VisualStudio\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.dll
+D:\VisualStudio\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.pdb
+D:\VisualStudio\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.dll
+D:\VisualStudio\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.pdb
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.dll.config
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.dll
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\bin\Debug\Entidades30-5.pdb
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.dll
+C:\Users\alumno\Desktop\Entidades30-5\Entidades30-5\obj\Debug\Entidades30-5.pdb

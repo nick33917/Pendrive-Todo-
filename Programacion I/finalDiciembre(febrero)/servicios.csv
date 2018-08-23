@@ -1,0 +1,15 @@
+nombrecliente,apellidoCliente,dniCliente,codigoArticulo,costo,estado,NRO_SERVICIO
+juan,perez,33546787,TV_LG_32,327.989990,1,15
+miguel,lopez,34657898,TV_LG_40,427.989990,1,16
+andres,garcia,32435676,TV_LG_43,527.989990,1,17
+pedro,gonzalez,35768909,TV_PHILLIPS_32,337.989990,1,18
+martin,aguirre,31324565,TV_PHILLIPS_40,437.989990,1,19
+pascual,jerez,33546787,TV_PHILLIPS_43,14.000000,0,20
+roberto,sanchez,31123123,TV_SONY_32,347.989990,1,21
+adrian,martinez,31321321,TV_SONY_40,123.559998,0,22
+ramon,rolon,35678678,TV_SONY_43,123.449997,0,23
+federico,barrios,35876876,TV_LG_55,876.989990,1,24
+jose,castaldo,1444454,holanda,154.000000,1,36
+pepito,culito,151547,125,145.000000,0,78
+patricia,castaldo,20954997,holala,1987.229980,1,45
+nicolas,fattori,38839471,notebook,123.000000,0,50

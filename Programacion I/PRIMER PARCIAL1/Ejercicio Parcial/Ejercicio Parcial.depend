@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507080315 source:c:\users\nick3\desktop\ejercicio parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507081264 source:e:\primer parcial1\ejercicio parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

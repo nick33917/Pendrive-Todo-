@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1506889993 source:c:\users\admin\desktop\programadores3estructuras\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1506889993 c:\users\admin\desktop\programadores3estructuras\lib.h
+

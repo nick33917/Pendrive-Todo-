@@ -1,0 +1,8 @@
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\bin\Debug\Programm.exe.config
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\bin\Debug\Programm.exe
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\bin\Debug\Programm.pdb
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\bin\Debug\Entidades.dll
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\bin\Debug\Entidades.pdb
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\obj\Debug\Programm.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\obj\Debug\Programm.exe
+D:\VisualStudio\Fattori.Nicolas.2A\Programm\obj\Debug\Programm.pdb

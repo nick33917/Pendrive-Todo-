@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\bin\Debug\clase 2.exe.config
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\bin\Debug\clase 2.exe
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\bin\Debug\clase 2.pdb
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\obj\Debug\clase 2.exe
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\obj\Debug\clase 2.pdb
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\bin\Debug\EntidadSello.dll
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\bin\Debug\EntidadSello.pdb
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\clase 2\obj\Debug\clase 2.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\clase 2\bin\Debug\clase 2.exe.config
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\clase 2\obj\Debug\clase 2.exe
+C:\Users\nick3\Desktop\Program II\Fattori.Nicolas\clase 2\obj\Debug\clase 2.pdb

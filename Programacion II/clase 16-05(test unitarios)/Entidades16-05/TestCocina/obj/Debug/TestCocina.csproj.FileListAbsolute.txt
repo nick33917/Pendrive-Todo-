@@ -1,0 +1,8 @@
+D:\VisualStudio\Entidades16-05\TestCocina\bin\Debug\TestCocina.exe.config
+D:\VisualStudio\Entidades16-05\TestCocina\bin\Debug\TestCocina.exe
+D:\VisualStudio\Entidades16-05\TestCocina\bin\Debug\TestCocina.pdb
+D:\VisualStudio\Entidades16-05\TestCocina\bin\Debug\Entidades16-05.dll
+D:\VisualStudio\Entidades16-05\TestCocina\bin\Debug\Entidades16-05.pdb
+D:\VisualStudio\Entidades16-05\TestCocina\obj\Debug\TestCocina.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades16-05\TestCocina\obj\Debug\TestCocina.exe
+D:\VisualStudio\Entidades16-05\TestCocina\obj\Debug\TestCocina.pdb

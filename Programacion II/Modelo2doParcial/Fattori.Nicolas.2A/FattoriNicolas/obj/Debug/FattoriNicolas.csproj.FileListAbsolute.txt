@@ -1,0 +1,16 @@
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\FattoriNicolas.exe.config
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\FattoriNicolas.exe
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\FattoriNicolas.pdb
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.Properties.Resources.resources
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.csproj.GenerateResource.Cache
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.exe
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.pdb
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\Interfaces.dll
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\Interfaces.pdb
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.Form1.resources
+E:\Modelo2doParcial\Fattori.Nicolas.2A\FattoriNicolas\bin\Debug\FattoriNicolas.exe.config
+E:\Modelo2doParcial\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.exe
+E:\Modelo2doParcial\Fattori.Nicolas.2A\FattoriNicolas\obj\Debug\FattoriNicolas.pdb

@@ -1,0 +1,16 @@
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe.config
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.pdb
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\bin\Debug\Ejercicio47.dll
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\bin\Debug\Ejercicio47.pdb
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.exe
+D:\VisualStudio\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.pdb
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe.config
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.exe
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\bin\Debug\PruebaEjercicio.pdb
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\bin\Debug\Ejercicio47.dll
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\bin\Debug\Ejercicio47.pdb
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.csprojResolveAssemblyReference.cache
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.exe
+E:\Programacion II\clase 16-05\Ejercicio47\PruebaEjercicio\obj\Debug\PruebaEjercicio.pdb

@@ -1,0 +1,15 @@
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Clase9herencia.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Lavadero\Lavadero\bin\Debug\Lavadero.dll
+D:\VisualStudio\Lavadero\Lavadero\bin\Debug\Lavadero.pdb
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Lavadero.dll
+D:\VisualStudio\Lavadero\Lavadero\obj\Debug\Lavadero.pdb
+C:\Users\alumno\Desktop\Lavadero\Lavadero\bin\Debug\Lavadero.dll
+C:\Users\alumno\Desktop\Lavadero\Lavadero\bin\Debug\Lavadero.pdb
+C:\Users\alumno\Desktop\Lavadero\Lavadero\obj\Debug\Clase9Herencia.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Lavadero\Lavadero\obj\Debug\Lavadero.dll
+C:\Users\alumno\Desktop\Lavadero\Lavadero\obj\Debug\Lavadero.pdb
+C:\Users\alumno\Desktop\lavadero-Polimorfismo\Lavadero\bin\Debug\Lavadero.dll
+C:\Users\alumno\Desktop\lavadero-Polimorfismo\Lavadero\bin\Debug\Lavadero.pdb
+C:\Users\alumno\Desktop\lavadero-Polimorfismo\Lavadero\obj\Debug\Clase9Herencia.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\lavadero-Polimorfismo\Lavadero\obj\Debug\Lavadero.dll
+C:\Users\alumno\Desktop\lavadero-Polimorfismo\Lavadero\obj\Debug\Lavadero.pdb

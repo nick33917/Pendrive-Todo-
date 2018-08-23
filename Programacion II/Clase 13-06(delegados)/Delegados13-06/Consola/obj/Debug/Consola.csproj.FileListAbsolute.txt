@@ -1,0 +1,16 @@
+D:\VisualStudio\Delegados13-06\Consola\bin\Debug\Consola.exe.config
+D:\VisualStudio\Delegados13-06\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Delegados13-06\Consola\bin\Debug\Consola.exe
+D:\VisualStudio\Delegados13-06\Consola\bin\Debug\Consola.pdb
+D:\VisualStudio\Delegados13-06\Consola\bin\Debug\Entidades.dll
+D:\VisualStudio\Delegados13-06\Consola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Delegados13-06\Consola\obj\Debug\Consola.exe
+D:\VisualStudio\Delegados13-06\Consola\obj\Debug\Consola.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\bin\Debug\Consola.exe.config
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\obj\Debug\Consola.exe
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\obj\Debug\Consola.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\bin\Debug\Consola.exe
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\bin\Debug\Consola.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\bin\Debug\Entidades.dll
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\bin\Debug\Entidades.pdb
+E:\Programacion II\Clase 13-06\Delegados13-06\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

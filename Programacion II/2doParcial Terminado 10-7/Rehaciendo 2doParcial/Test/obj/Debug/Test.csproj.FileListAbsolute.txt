@@ -1,0 +1,11 @@
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\bin\Debug\Test.exe.config
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\bin\Debug\Test.exe
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\bin\Debug\Test.pdb
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\obj\Debug\Test.exe
+C:\Users\nick3\Desktop\Rehaciendo 2doParcial\Test\obj\Debug\Test.pdb
+E:\2doParcial Terminado 10-7\Rehaciendo 2doParcial\Test\bin\Debug\Test.exe.config
+E:\2doParcial Terminado 10-7\Rehaciendo 2doParcial\Test\obj\Debug\Test.exe
+E:\2doParcial Terminado 10-7\Rehaciendo 2doParcial\Test\obj\Debug\Test.pdb

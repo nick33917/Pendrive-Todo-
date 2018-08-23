@@ -1,0 +1,17 @@
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.Form1.resources
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.Properties.Resources.resources
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.csproj.GenerateResource.Cache
+D:\VisualStudio\Delegados13-06\frmEmpleado\bin\Debug\frmEmpleado.exe.config
+D:\VisualStudio\Delegados13-06\frmEmpleado\bin\Debug\frmEmpleado.exe
+D:\VisualStudio\Delegados13-06\frmEmpleado\bin\Debug\frmEmpleado.pdb
+D:\VisualStudio\Delegados13-06\frmEmpleado\bin\Debug\Entidades.dll
+D:\VisualStudio\Delegados13-06\frmEmpleado\bin\Debug\Entidades.pdb
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.exe
+D:\VisualStudio\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.pdb
+E:\ft2\Delegados13-06\frmEmpleado\bin\Debug\frmEmpleado.exe.config
+E:\ft2\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.exe
+E:\ft2\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.pdb
+E:\Programacion II\Delegados13-06\frmEmpleado\bin\Debug\frmEmpleado.exe.config
+E:\Programacion II\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.exe
+E:\Programacion II\Delegados13-06\frmEmpleado\obj\Debug\frmEmpleado.pdb

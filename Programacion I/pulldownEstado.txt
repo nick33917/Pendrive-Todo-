@@ -1,0 +1,31 @@
+int boton = 2;
+int led = 11;
+int estado = 0;
+int estaPulsado;
+
+void setup() {
+  
+ Serial.begin(9600);
+  
+  pinMode(led, OUTPUT);
+  pinMode(boton, INPUT);
+  digitalWrite(led, LOW);
+ 
+  
+}
+
+void loop() {
+  
+  estaPulsado = digitalRead(boton);
+  
+  Serial.println(estado);
+  if(estaPulsado == HIGH){
+    estado = !estado;
+    
+  digitalWrite(led, estado);   
+   
+  }
+  
+  delay(10);
+
+}

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507680706 source:c:\ptrstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507724380 source:e:\11-10 archivo\16 ptrstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+

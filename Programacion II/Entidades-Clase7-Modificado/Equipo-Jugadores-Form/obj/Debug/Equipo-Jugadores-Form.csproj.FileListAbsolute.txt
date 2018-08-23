@@ -1,0 +1,48 @@
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe.config
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.dll
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.Form1.resources
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.Properties.Resources.resources
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmEquipo.resources
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe.config
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.dll
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmJugador.resources
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmEquipo.resources
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.Properties.Resources.resources
+C:\Users\alumno\Desktop\Entidades-Clase71\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe.config
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.dll
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.pdb
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmJugador.resources
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmEquipo.resources
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.Properties.Resources.resources
+C:\Users\alumno\Desktop\Entidades-Clase71 - copia\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe.config
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.exe
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\bin\Debug\Equipo-Jugadores-Form.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.dll
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\bin\Debug\Entidades-Clase7.pdb
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmJugador.resources
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.FrmEquipo.resources
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo_Jugadores_Form.Properties.Resources.resources
+C:\Users\alumno\Desktop\Entidades-Clase7-Modificado\Equipo-Jugadores-Form\obj\Debug\Equipo-Jugadores-Form.csproj.GenerateResource.Cache

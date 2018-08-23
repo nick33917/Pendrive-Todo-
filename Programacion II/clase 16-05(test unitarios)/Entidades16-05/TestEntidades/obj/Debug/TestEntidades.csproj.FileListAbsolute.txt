@@ -1,0 +1,8 @@
+D:\VisualStudio\Entidades16-05\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades16-05\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\VisualStudio\Entidades16-05\TestEntidades\bin\Debug\TestEntidades.exe
+D:\VisualStudio\Entidades16-05\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\VisualStudio\Entidades16-05\TestEntidades\bin\Debug\Entidades16-05.dll
+D:\VisualStudio\Entidades16-05\TestEntidades\bin\Debug\Entidades16-05.pdb
+D:\VisualStudio\Entidades16-05\TestEntidades\obj\Debug\TestEntidades.exe
+D:\VisualStudio\Entidades16-05\TestEntidades\obj\Debug\TestEntidades.pdb

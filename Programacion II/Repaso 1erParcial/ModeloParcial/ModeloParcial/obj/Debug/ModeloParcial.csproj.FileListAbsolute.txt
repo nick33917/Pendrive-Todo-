@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.dll
+C:\Users\alumno\Desktop\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\alumno\Desktop\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.dll
+C:\Users\alumno\Desktop\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.pdb

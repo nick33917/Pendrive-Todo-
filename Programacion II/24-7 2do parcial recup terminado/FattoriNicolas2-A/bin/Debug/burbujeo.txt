@@ -1,0 +1,6 @@
+Hora:25/7/2018 00:09:45----- LugarPorElQuePaso:MetodoInstancia(Clase Burbujeo)
+Hora:25/7/2018 00:09:45----- LugarPorElQuePaso:MetodoClase(Clase Burbujeo)
+Hora:25/7/2018 00:09:45----- LugarPorElQuePaso:Form(Boton 5_click)
+Hora:25/7/2018 00:10:18----- LugarPorElQuePaso:MetodoInstancia(Clase Burbujeo)
+Hora:25/7/2018 00:10:18----- LugarPorElQuePaso:MetodoClase(Clase Burbujeo)
+Hora:25/7/2018 00:10:18----- LugarPorElQuePaso:Form(Boton 5_click)

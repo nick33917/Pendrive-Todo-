@@ -1,0 +1,11 @@
+E:\Programacion II\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe.config
+E:\Programacion II\ClassLibrary1\CosaForms\bin\Debug\CosaForms.exe
+E:\Programacion II\ClassLibrary1\CosaForms\bin\Debug\CosaForms.pdb
+E:\Programacion II\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.dll
+E:\Programacion II\ClassLibrary1\CosaForms\bin\Debug\ClassLibrary1.pdb
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csprojResolveAssemblyReference.cache
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Form1.resources
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.Properties.Resources.resources
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.csproj.GenerateResource.Cache
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.exe
+E:\Programacion II\ClassLibrary1\CosaForms\obj\Debug\CosaForms.pdb

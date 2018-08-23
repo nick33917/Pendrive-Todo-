@@ -1,0 +1,16 @@
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\bin\Debug\Test.exe.config
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\bin\Debug\Test.exe
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\bin\Debug\Test.pdb
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\obj\Debug\Test.exe
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\obj\Debug\Test.pdb
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\bin\Debug\entidadFinanciera.dll
+C:\Users\nick3\Desktop\FattoriNicolas2A\Test\bin\Debug\entidadFinanciera.pdb
+E:\Fattori.Nicolas.2A\Test\bin\Debug\Test.exe.config
+E:\Fattori.Nicolas.2A\Test\bin\Debug\Test.exe
+E:\Fattori.Nicolas.2A\Test\bin\Debug\Test.pdb
+E:\Fattori.Nicolas.2A\Test\bin\Debug\entidadFinanciera.dll
+E:\Fattori.Nicolas.2A\Test\bin\Debug\entidadFinanciera.pdb
+E:\Fattori.Nicolas.2A\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Fattori.Nicolas.2A\Test\obj\Debug\Test.exe
+E:\Fattori.Nicolas.2A\Test\obj\Debug\Test.pdb

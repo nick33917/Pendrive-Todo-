@@ -1,0 +1,25 @@
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\nick3\Desktop\git\tp_laboratorio_2-master\Tp_laboratorio_1 (NicolasFattori 2°A)\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache

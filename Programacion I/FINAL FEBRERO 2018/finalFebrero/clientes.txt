@@ -1,0 +1,4 @@
+IdCliente,Nombre,Apellido,Dni
+1,nicolas,fattori,38839471
+2,patricia,castaldo,20954997
+3,alejandro,factory,16879456

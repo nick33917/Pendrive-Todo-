@@ -1,0 +1,8 @@
+D:\VisualStudio\Fattori.Nicolas\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Fattori.Nicolas\Test\bin\Debug\Test.exe
+D:\VisualStudio\Fattori.Nicolas\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Fattori.Nicolas\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Fattori.Nicolas\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Fattori.Nicolas\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Fattori.Nicolas\Test\obj\Debug\Test.exe
+D:\VisualStudio\Fattori.Nicolas\Test\obj\Debug\Test.pdb

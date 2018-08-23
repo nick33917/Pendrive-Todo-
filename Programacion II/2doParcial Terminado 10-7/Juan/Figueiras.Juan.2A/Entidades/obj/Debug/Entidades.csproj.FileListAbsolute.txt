@@ -1,0 +1,10 @@
+D:\VisualStudio\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Figueiras.Juan.2A\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Figueiras.Juan.2A\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.pdb
+E:\Figueiras.Juan.2A\Entidades\bin\Debug\Entidades.dll
+E:\Figueiras.Juan.2A\Entidades\bin\Debug\Entidades.pdb
+E:\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.dll
+E:\Figueiras.Juan.2A\Entidades\obj\Debug\Entidades.pdb

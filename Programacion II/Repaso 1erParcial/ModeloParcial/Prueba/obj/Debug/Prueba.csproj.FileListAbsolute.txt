@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\bin\Debug\Prueba.exe
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\bin\Debug\Prueba.pdb
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\bin\Debug\ModeloParcial.dll
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\bin\Debug\ModeloParcial.pdb
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\obj\Debug\Prueba.exe
+C:\Users\alumno\Desktop\ModeloParcial\Prueba\obj\Debug\Prueba.pdb

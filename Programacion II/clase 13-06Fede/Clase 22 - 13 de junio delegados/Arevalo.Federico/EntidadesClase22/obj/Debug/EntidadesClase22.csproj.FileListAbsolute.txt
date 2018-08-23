@@ -1,0 +1,4 @@
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\EntidadesClase22\bin\Debug\EntidadesClase22.dll
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\EntidadesClase22\bin\Debug\EntidadesClase22.pdb
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\EntidadesClase22\obj\Debug\EntidadesClase22.dll
+D:\Programacion II - Lab II\prog-lab2\Clase 22 - 13 de junio delegados\Arevalo.Federico\EntidadesClase22\obj\Debug\EntidadesClase22.pdb

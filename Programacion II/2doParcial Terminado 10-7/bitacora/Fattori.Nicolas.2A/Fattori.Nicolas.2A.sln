@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FattoriNicolas", "FattoriNicolas\FattoriNicolas.csproj", "{295A448D-ABDA-4397-9D1F-371E355E96BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{2A576020-E41F-4945-A97A-D4505ED024E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{41626D20-25DC-4C7D-BC15-F842AA388828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295A448D-ABDA-4397-9D1F-371E355E96BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295A448D-ABDA-4397-9D1F-371E355E96BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295A448D-ABDA-4397-9D1F-371E355E96BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295A448D-ABDA-4397-9D1F-371E355E96BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A576020-E41F-4945-A97A-D4505ED024E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A576020-E41F-4945-A97A-D4505ED024E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A576020-E41F-4945-A97A-D4505ED024E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A576020-E41F-4945-A97A-D4505ED024E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41626D20-25DC-4C7D-BC15-F842AA388828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41626D20-25DC-4C7D-BC15-F842AA388828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41626D20-25DC-4C7D-BC15-F842AA388828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41626D20-25DC-4C7D-BC15-F842AA388828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

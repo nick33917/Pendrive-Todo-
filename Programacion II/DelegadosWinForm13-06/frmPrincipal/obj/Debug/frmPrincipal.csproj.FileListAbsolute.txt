@@ -1,0 +1,14 @@
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.pdb
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.frmDatos.resources
+D:\VisualStudio\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.frmTestDelegados.resources
+E:\ft2\DelegadosWinForm13-06\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+E:\ft2\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.exe
+E:\ft2\DelegadosWinForm13-06\frmPrincipal\obj\Debug\frmPrincipal.pdb

@@ -1,0 +1,13 @@
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\MainCorreo.exe.CodeAnalysisLog.xml
+C:\Users\nick3\Desktop\Tp_Laboratorio_4\MainCorreo\bin\Debug\MainCorreo.exe.lastcodeanalysissucceeded

@@ -1,0 +1,38 @@
+int boton = 2;
+int led = 11;
+int estadoBoton;
+int estadoAnteriorBoton = LOW;
+
+
+void setup() {
+  
+ Serial.begin(9600);
+  
+  pinMode(led, OUTPUT);
+  pinMode(boton, INPUT);
+ 
+  
+}
+
+void loop() {
+  
+  estadoBoton = digitalRead(boton);
+  
+  Serial.println(estadoBoton);
+  
+  if(estadoBoton != estadoAnteriorBoton){    
+    
+    if(estadoBoton == HIGH)
+    {    
+        
+    digitalWrite(led,!digitalRead(led));   
+   
+    }
+    
+     estadoAnteriorBoton = estadoBoton;
+   
+  }
+  
+  delay(50);
+
+}

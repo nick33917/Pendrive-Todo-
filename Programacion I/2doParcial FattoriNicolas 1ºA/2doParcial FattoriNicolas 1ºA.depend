@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1511354290 source:c:\users\alumno\desktop\2doparcial fattorinicolas 1ºa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1511352780 c:\users\alumno\desktop\2doparcial fattorinicolas 1ºa\arraylist.h
+
+1511363054 source:c:\users\alumno\desktop\2doparcial fattorinicolas 1ºa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+
+1511356517 c:\users\alumno\desktop\2doparcial fattorinicolas 1ºa\funciones.h
+
+1511356767 source:c:\users\alumno\desktop\2doparcial fattorinicolas 1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+
+1511793334 source:e:\2doparcial fattorinicolas 1ºa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1511352782 e:\2doparcial fattorinicolas 1ºa\arraylist.h
+
+1511871340 source:e:\2doparcial fattorinicolas 1ºa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+
+1511871808 e:\2doparcial fattorinicolas 1ºa\funciones.h
+
+1511871218 source:e:\2doparcial fattorinicolas 1ºa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+

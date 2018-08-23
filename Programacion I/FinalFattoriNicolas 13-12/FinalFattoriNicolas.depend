@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1513167669 source:c:\users\alumno\desktop\finalfattorinicolas\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1513167669 c:\users\alumno\desktop\finalfattorinicolas\arraylist.h
+
+1513170169 source:c:\users\alumno\desktop\finalfattorinicolas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+
+1513168718 c:\users\alumno\desktop\finalfattorinicolas\funciones.h
+
+1513170088 source:c:\users\alumno\desktop\finalfattorinicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+
+1513167670 source:c:\users\alumno\desktop\finalfattorinicolas 13-12\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1513167670 c:\users\alumno\desktop\finalfattorinicolas 13-12\arraylist.h
+
+1513174252 source:c:\users\alumno\desktop\finalfattorinicolas 13-12\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"funciones.h"
+
+1513174247 c:\users\alumno\desktop\finalfattorinicolas 13-12\funciones.h
+
+1513174396 source:c:\users\alumno\desktop\finalfattorinicolas 13-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"funciones.h"
+
+1513167670 source:e:\finalfattorinicolas 13-12\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1513167670 e:\finalfattorinicolas 13-12\arraylist.h
+

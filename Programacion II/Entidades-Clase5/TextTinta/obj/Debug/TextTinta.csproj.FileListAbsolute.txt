@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Entidades\TextTinta\bin\Debug\TextTinta.exe.config
+C:\Users\alumno\Desktop\Entidades\TextTinta\obj\Debug\TextTinta.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Entidades\TextTinta\bin\Debug\TextTinta.exe
+C:\Users\alumno\Desktop\Entidades\TextTinta\bin\Debug\TextTinta.pdb
+C:\Users\alumno\Desktop\Entidades\TextTinta\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Entidades\TextTinta\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Entidades\TextTinta\obj\Debug\TextTinta.exe
+C:\Users\alumno\Desktop\Entidades\TextTinta\obj\Debug\TextTinta.pdb
+E:\Programacion II\Entidades-Clase5\TextTinta\bin\Debug\TextTinta.exe.config
+E:\Programacion II\Entidades-Clase5\TextTinta\obj\Debug\TextTinta.exe
+E:\Programacion II\Entidades-Clase5\TextTinta\obj\Debug\TextTinta.pdb

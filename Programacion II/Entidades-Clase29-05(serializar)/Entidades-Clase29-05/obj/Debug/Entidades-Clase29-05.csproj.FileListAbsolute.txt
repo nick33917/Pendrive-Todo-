@@ -1,0 +1,5 @@
+D:\VisualStudio\Entidades-Clase29-05\Entidades-Clase29-05\obj\Debug\Entidades-Clase29-05.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades-Clase29-05\Entidades-Clase29-05\bin\Debug\Entidades-Clase29-05.dll
+D:\VisualStudio\Entidades-Clase29-05\Entidades-Clase29-05\bin\Debug\Entidades-Clase29-05.pdb
+D:\VisualStudio\Entidades-Clase29-05\Entidades-Clase29-05\obj\Debug\Entidades-Clase29-05.dll
+D:\VisualStudio\Entidades-Clase29-05\Entidades-Clase29-05\obj\Debug\Entidades-Clase29-05.pdb

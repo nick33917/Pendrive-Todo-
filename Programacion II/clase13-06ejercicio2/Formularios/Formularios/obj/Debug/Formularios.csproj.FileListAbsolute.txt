@@ -1,0 +1,11 @@
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\bin\Debug\Formularios.exe.config
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\bin\Debug\Formularios.exe
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\bin\Debug\Formularios.pdb
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.exe
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.pdb
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.FrmTestDelegados.resources
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.FrmDatos.resources
+D:\VisualStudio\clase13-06ejercicio2\Formularios\Formularios\obj\Debug\Formularios.FrmPrincipal.resources

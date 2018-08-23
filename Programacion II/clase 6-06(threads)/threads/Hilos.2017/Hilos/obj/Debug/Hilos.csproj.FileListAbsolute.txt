@@ -1,0 +1,9 @@
+D:\VisualStudio\Hilos.2017\Hilos\bin\Debug\Hilos.exe.config
+D:\VisualStudio\Hilos.2017\Hilos\bin\Debug\Hilos.exe
+D:\VisualStudio\Hilos.2017\Hilos\bin\Debug\Hilos.pdb
+D:\VisualStudio\Hilos.2017\Hilos\obj\Debug\Hilos.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Hilos.2017\Hilos\obj\Debug\Hilos.exe
+D:\VisualStudio\Hilos.2017\Hilos\obj\Debug\Hilos.pdb
+E:\Programacion II\clase 6-06\threads\Hilos.2017\Hilos\bin\Debug\Hilos.exe.config
+E:\Programacion II\clase 6-06\threads\Hilos.2017\Hilos\obj\Debug\Hilos.exe
+E:\Programacion II\clase 6-06\threads\Hilos.2017\Hilos\obj\Debug\Hilos.pdb

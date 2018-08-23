@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505142712 source:c:\users\alumno\desktop\ejericicomatrices funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505142994 source:f:\clase 11-9 cadenas\ejericicomatrices funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

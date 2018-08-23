@@ -1,0 +1,15 @@
+D:\VisualStudio\Eventos12-06\frmCajero\bin\Debug\frmCajero.exe.config
+D:\VisualStudio\Eventos12-06\frmCajero\bin\Debug\frmCajero.exe
+D:\VisualStudio\Eventos12-06\frmCajero\bin\Debug\frmCajero.pdb
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.frmCajeroAutomatico.resources
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.Properties.Resources.resources
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.csproj.GenerateResource.Cache
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.exe
+D:\VisualStudio\Eventos12-06\frmCajero\obj\Debug\frmCajero.pdb
+E:\ft2\Clase 12-06\Eventos12-06\frmCajero\bin\Debug\frmCajero.exe.config
+E:\ft2\Clase 12-06\Eventos12-06\frmCajero\obj\Debug\frmCajero.exe
+C:\Users\nick3\Desktop\Program II\Completo\Clase 12-06\Eventos12-06\frmCajero\bin\Debug\frmCajero.exe.config
+C:\Users\nick3\Desktop\Program II\Completo\Clase 12-06\Eventos12-06\frmCajero\obj\Debug\frmCajero.exe
+E:\Programacion II\Clase 12-06\Eventos12-06\frmCajero\bin\Debug\frmCajero.exe.config
+E:\Programacion II\Clase 12-06\Eventos12-06\frmCajero\obj\Debug\frmCajero.exe

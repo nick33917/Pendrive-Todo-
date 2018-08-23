@@ -1,0 +1,4 @@
+D:\VisualStudio\Fattori.Nicolas.2A\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Fattori.Nicolas.2A\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Fattori.Nicolas.2A\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Fattori.Nicolas.2A\Entidades\obj\Debug\Entidades.pdb

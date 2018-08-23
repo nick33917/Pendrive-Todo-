@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Fattori.Nicolas\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

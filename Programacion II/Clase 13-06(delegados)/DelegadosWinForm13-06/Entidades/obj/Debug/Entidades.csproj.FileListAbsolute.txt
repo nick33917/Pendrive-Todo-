@@ -1,0 +1,4 @@
+D:\VisualStudio\DelegadosWinForm13-06\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\DelegadosWinForm13-06\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\DelegadosWinForm13-06\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\DelegadosWinForm13-06\Entidades\obj\Debug\Entidades.pdb

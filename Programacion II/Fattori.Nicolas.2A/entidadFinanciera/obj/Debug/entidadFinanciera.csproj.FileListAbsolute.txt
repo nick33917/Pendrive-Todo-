@@ -1,0 +1,10 @@
+C:\Users\nick3\Desktop\FattoriNicolas2A\entidadFinanciera\obj\Debug\entidadFinanciera.csprojResolveAssemblyReference.cache
+C:\Users\nick3\Desktop\FattoriNicolas2A\entidadFinanciera\bin\Debug\entidadFinanciera.dll
+C:\Users\nick3\Desktop\FattoriNicolas2A\entidadFinanciera\bin\Debug\entidadFinanciera.pdb
+C:\Users\nick3\Desktop\FattoriNicolas2A\entidadFinanciera\obj\Debug\entidadFinanciera.dll
+C:\Users\nick3\Desktop\FattoriNicolas2A\entidadFinanciera\obj\Debug\entidadFinanciera.pdb
+E:\Fattori.Nicolas.2A\entidadFinanciera\bin\Debug\entidadFinanciera.dll
+E:\Fattori.Nicolas.2A\entidadFinanciera\bin\Debug\entidadFinanciera.pdb
+E:\Fattori.Nicolas.2A\entidadFinanciera\obj\Debug\entidadFinanciera.csprojResolveAssemblyReference.cache
+E:\Fattori.Nicolas.2A\entidadFinanciera\obj\Debug\entidadFinanciera.dll
+E:\Fattori.Nicolas.2A\entidadFinanciera\obj\Debug\entidadFinanciera.pdb

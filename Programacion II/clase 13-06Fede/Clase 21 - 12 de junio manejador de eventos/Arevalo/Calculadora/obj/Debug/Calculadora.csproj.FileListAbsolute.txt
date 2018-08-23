@@ -1,0 +1,19 @@
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.exe
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.pdb
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.exe
+D:\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.exe.config
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\bin\Debug\Calculadora.pdb
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.exe
+F:\usuarios\alumno\Escritorio\UTN FRA\Programacion II - Lab II\prog-lab2\Clase 21 - 12 de junio manejador de eventos\Arevalo\Calculadora\obj\Debug\Calculadora.pdb

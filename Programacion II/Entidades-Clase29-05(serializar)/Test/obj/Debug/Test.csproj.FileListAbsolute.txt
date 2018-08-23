@@ -1,0 +1,14 @@
+D:\VisualStudio\Entidades-Clase29-05\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Entidades-Clase29-05\Test\bin\Debug\Test.exe
+D:\VisualStudio\Entidades-Clase29-05\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Entidades-Clase29-05\Test\bin\Debug\Entidades-Clase29-05.dll
+D:\VisualStudio\Entidades-Clase29-05\Test\bin\Debug\Entidades-Clase29-05.pdb
+D:\VisualStudio\Entidades-Clase29-05\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades-Clase29-05\Test\obj\Debug\Test.exe
+D:\VisualStudio\Entidades-Clase29-05\Test\obj\Debug\Test.pdb
+E:\Programacion II\Entidades-Clase29-05\Test\bin\Debug\Test.exe.config
+E:\Programacion II\Entidades-Clase29-05\Test\obj\Debug\Test.exe
+E:\Programacion II\Entidades-Clase29-05\Test\obj\Debug\Test.pdb
+E:\Programacion II\Entidades-Clase29-05(serializar)\Test\bin\Debug\Test.exe.config
+E:\Programacion II\Entidades-Clase29-05(serializar)\Test\obj\Debug\Test.exe
+E:\Programacion II\Entidades-Clase29-05(serializar)\Test\obj\Debug\Test.pdb

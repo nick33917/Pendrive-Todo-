@@ -1,0 +1,19 @@
+D:\VisualStudio\Entidades30-5\test\bin\Debug\test.exe.config
+D:\VisualStudio\Entidades30-5\test\bin\Debug\test.exe
+D:\VisualStudio\Entidades30-5\test\bin\Debug\test.pdb
+D:\VisualStudio\Entidades30-5\test\bin\Debug\Entidades30-5.dll
+D:\VisualStudio\Entidades30-5\test\bin\Debug\Entidades30-5.pdb
+D:\VisualStudio\Entidades30-5\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades30-5\test\obj\Debug\test.exe
+D:\VisualStudio\Entidades30-5\test\obj\Debug\test.pdb
+E:\Programacion II\Clase30-5 BaseDeDatos\Entidades30-5\test\bin\Debug\test.exe.config
+E:\Programacion II\Clase30-5 BaseDeDatos\Entidades30-5\test\obj\Debug\test.exe
+E:\Programacion II\Clase30-5 BaseDeDatos\Entidades30-5\test\obj\Debug\test.pdb
+C:\Users\alumno\Desktop\Entidades30-5\test\bin\Debug\test.exe.config
+C:\Users\alumno\Desktop\Entidades30-5\test\obj\Debug\test.exe
+C:\Users\alumno\Desktop\Entidades30-5\test\obj\Debug\test.pdb
+C:\Users\alumno\Desktop\Entidades30-5\test\bin\Debug\test.exe
+C:\Users\alumno\Desktop\Entidades30-5\test\bin\Debug\test.pdb
+C:\Users\alumno\Desktop\Entidades30-5\test\bin\Debug\Entidades30-5.dll
+C:\Users\alumno\Desktop\Entidades30-5\test\bin\Debug\Entidades30-5.pdb
+C:\Users\alumno\Desktop\Entidades30-5\test\obj\Debug\test.csprojResolveAssemblyReference.cache

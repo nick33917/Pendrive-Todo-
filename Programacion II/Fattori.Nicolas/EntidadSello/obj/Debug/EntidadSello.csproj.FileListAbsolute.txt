@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\EntidadSello\bin\Debug\EntidadSello.dll
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\EntidadSello\bin\Debug\EntidadSello.pdb
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\EntidadSello\obj\Debug\EntidadSello.dll
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\EntidadSello\obj\Debug\EntidadSello.pdb
+C:\Users\alumno\Desktop\Programacion II\Fattori.Nicolas\EntidadSello\obj\Debug\EntidadSello.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+D:\VisualStudio\Clase23-05\FrmJugador\bin\Debug\FrmJugador.exe.config
+D:\VisualStudio\Clase23-05\FrmJugador\bin\Debug\FrmJugador.exe
+D:\VisualStudio\Clase23-05\FrmJugador\bin\Debug\FrmJugador.pdb
+D:\VisualStudio\Clase23-05\FrmJugador\bin\Debug\Clase23-05.dll
+D:\VisualStudio\Clase23-05\FrmJugador\bin\Debug\Clase23-05.pdb
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.Form1.resources
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.Properties.Resources.resources
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.csproj.GenerateResource.Cache
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.exe
+D:\VisualStudio\Clase23-05\FrmJugador\obj\Debug\FrmJugador.pdb
+E:\Programacion II\Clase23-05\Clase23-05\FrmJugador\bin\Debug\FrmJugador.exe.config
+E:\Programacion II\Clase23-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.exe
+E:\Programacion II\Clase23-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.pdb
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\bin\Debug\FrmJugador.exe.config
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.exe
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.pdb
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\bin\Debug\FrmJugador.exe
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\bin\Debug\FrmJugador.pdb
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\bin\Debug\Clase23-05.dll
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\bin\Debug\Clase23-05.pdb
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.Form1.resources
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.Properties.Resources.resources
+C:\Users\alumno\Desktop\Clase29-05\Clase23-05\FrmJugador\obj\Debug\FrmJugador.csproj.GenerateResource.Cache

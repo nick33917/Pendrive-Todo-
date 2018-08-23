@@ -1,0 +1,5 @@
+D:\VisualStudio\Entidades16-05\Entidades16-05\obj\Debug\Entidades16-05.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Entidades16-05\Entidades16-05\bin\Debug\Entidades16-05.dll
+D:\VisualStudio\Entidades16-05\Entidades16-05\bin\Debug\Entidades16-05.pdb
+D:\VisualStudio\Entidades16-05\Entidades16-05\obj\Debug\Entidades16-05.dll
+D:\VisualStudio\Entidades16-05\Entidades16-05\obj\Debug\Entidades16-05.pdb

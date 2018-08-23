@@ -1,0 +1,4 @@
+D:\VisualStudio\Clase23-05\Clase23-05\bin\Debug\Clase23-05.dll
+D:\VisualStudio\Clase23-05\Clase23-05\bin\Debug\Clase23-05.pdb
+D:\VisualStudio\Clase23-05\Clase23-05\obj\Debug\Clase23-05.dll
+D:\VisualStudio\Clase23-05\Clase23-05\obj\Debug\Clase23-05.pdb
